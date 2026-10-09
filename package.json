@@ -1,0 +1,10 @@
+{
+  "name": "eiki-slides",
+  "private": true,
+  "scripts": {
+    "build": "marp 2026/hokudai-it.md --html -o docs/2026/hokudai-it/index.html && cp -r 2026/images docs/2026/hokudai-it/ && rm -f docs/2026/hokudai-it/images/herdr.png docs/2026/hokudai-it/images/gohsty.png"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.0.0"
+  }
+}

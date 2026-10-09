@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+
+# 未加工の元スクショ（ホスト名・ユーザー名が写っているため公開しない）
+2026/images/herdr.png
+2026/images/gohsty.png

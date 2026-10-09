@@ -3,6 +3,7 @@ marp: true
 theme: default
 paginate: true
 size: 16:9
+title: 夏休みにやったこと
 header: "夏休みにやったこと | 松森瑛己"
 footer: "2026-10-09 | 北大IT LT"
 style: |
